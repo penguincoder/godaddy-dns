@@ -2,7 +2,7 @@
 
 # Full package imports
 import sys
-
+import os
 import pif
 # Partial imports
 from godaddypy import Client, Account
